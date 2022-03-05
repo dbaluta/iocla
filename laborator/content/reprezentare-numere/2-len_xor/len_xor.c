@@ -19,6 +19,9 @@ void equality_check(const char *str)
 int main(void)
 {
 	/* TODO: Test functions */
+	char str[20] = "test";
+
+	printf("str = %s, len(%s) = %d\n", str, str, my_strlen(str));
 
 	return 0;
 }
