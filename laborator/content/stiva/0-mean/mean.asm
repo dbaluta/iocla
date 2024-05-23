@@ -3,6 +3,8 @@
 %define ARRAY_SIZE 13
 %define DECIMAL_PLACES 5
 
+; adaug solutie ex 1
+
 section .data
 
     num_array dw 76, 12, 65, 19, 781, 671, 431, 761, 782, 12, 91, 25, 9
