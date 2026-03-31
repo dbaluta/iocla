@@ -2,8 +2,11 @@
 
 %define ARRAY_LEN 7
 
-section .data
+ection .data
+dfadfa
 
+
+adfa
 input dd 122, 184, 199, 242, 263, 845, 911
 output times ARRAY_LEN dd 0
 
