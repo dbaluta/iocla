@@ -2,6 +2,9 @@
 
 %define ARRAY_LEN 7
 
+; adaug solutie ex2 
+
+
 section .data
 
 input dd 122, 184, 199, 242, 263, 845, 911
